@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3500&pause=1000&color=F5F5F5&center=true&vCenter=true&width=950&lines=NUTHANAGANTI+VAMSHI;Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Building+Intelligent+Softwares" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3500&pause=1000&color=F5F5F5&center=true&vCenter=true&width=950&lines=NUTHANAGANTI+VAMSHI;Building+Intelligent+Softwares" />
 
 </div>
 
