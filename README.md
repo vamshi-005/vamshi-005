@@ -46,23 +46,6 @@ I enjoy combining **Machine Learning, Computer Vision, Large Language Models (LL
 
 Currently, I'm focused on developing scalable AI systems, improving my software engineering skills, and preparing for engineering internships in AI-focused companies.
 
----
-##  Who Am I?
-
-I'm an **Artificial Intelligence & Machine Learning undergraduate** passionate about building intelligent systems that solve practical problems.
-
-Instead of only training machine learning models, I enjoy designing complete AI applications—from backend APIs and model integration to user-facing products.
-
-Currently, I'm expanding my knowledge in:
-
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents
-- ⚡ FastAPI & Backend Systems
-- 👁️ Computer Vision
-- 🏥 Medical Imaging AI
-
----
 
 ##  Current Focus
 
@@ -87,7 +70,6 @@ Currently, I'm expanding my knowledge in:
 
 - Agentic AI
 - Advanced RAG
-- System Design
 - Docker
 - Open Source
 
